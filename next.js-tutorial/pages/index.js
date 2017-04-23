@@ -1,6 +1,6 @@
 const Index = () =>
   <div>
-    <p>Hello World</p>
+    <p>Hello Next.js</p>
   </div>
 
 export default Index
